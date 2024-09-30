@@ -22,37 +22,84 @@ int main()
 	std::string SoyUnString = "holaaaa";
 	//soy un  arreglo de caracteres
 
-	std::cout << "сссЅ" << std::endl;
+	std::cout << SoyUnChar* SoyUnInt << std::endl;
 
 	std::string EntradaDeTextoDeCadena;
 	std::cout << "Porfavor ingresa una Cadena potente:" << std::endl;
-	std::cin >> EntradaDeTextoDeCadena;
+
+	std::getline(std::cin, EntradaDeTextoDeCadena);
+	
+	//std::cin >> EntradaDeTextoDeCadena;
+
 
 	bool EntradaDeTextoBooleano;
 	std::cout << "Porfavor ingresa un Booleano potente (0 o 1):" << std::endl;
-	std::cin >> EntradaDeTextoBooleano;
+	while (1) {
+		std::cin >> EntradaDeTextoBooleano;
+		if (!std::cin.fail()) break;
+		std::cin.clear();
+		std::cin.ignore(std::numeric_limits<std::streamsize>::max(),
+			'\n');
+	}
+	
 
+	
 	int EntradaDeTextoEntero;
 	std::cout << "Porfavor ingresa un Entero potente:" << std::endl;
-	std::cin >> EntradaDeTextoEntero;
+	while (1) {
+		std::cin >> EntradaDeTextoEntero;
+		if (!std::cin.fail()) break;
+		std::cin.clear();
+		std::cin.ignore(std::numeric_limits<std::streamsize>::max(),
+			'\n');
+	}
+	
 
 	char EntradaDeTextoCaracter;
 	std::cout << "Porfavor ingresa un Caracter potente:" << std::endl;
-	std::cin >> EntradaDeTextoCaracter;
+	while (1) {
+		std::cin >> EntradaDeTextoCaracter;
+		if (!std::cin.fail()) break;
+		std::cin.clear();
+		std::cin.ignore(std::numeric_limits<std::streamsize>::max(),
+			'\n');
+	}
+
+
 
 	double EntradaDeTextoDoble;
 	std::cout << "Porfavor ingresa un Doble potente:" << std::endl;
-	std::cin >> EntradaDeTextoDoble;
+
+	while (1) {
+		std::cin >> EntradaDeTextoDoble;
+		if (!std::cin.fail()) break;
+		std::cin.clear();
+		std::cin.ignore(std::numeric_limits<std::streamsize>::max(),
+			'\n');
+	}
 
 
 	float EntradaDeTextoFlotante;
 	std::cout << "Porfavor ingresa un Flotante potente:" << std::endl;
-	std::cin >> EntradaDeTextoFlotante;
-
-	char  EntradaDeTextoArregloCaracteres[100];
-	std::cout << "Porfavor ingresa un Arreglo de caracteres:s" << std::endl;
-	std::cin >> EntradaDeTextoArregloCaracteres;
 	
+	while (1) {
+		std::cin >> EntradaDeTextoFlotante;
+		if (!std::cin.fail()) break;
+		std::cin.clear();
+		std::cin.ignore(std::numeric_limits<std::streamsize>::max(),
+			'\n');
+	}
+	char  EntradaDeTextoArregloCaracteres[100];
+	std::cout << "Porfavor ingresa un Arreglo de caracteres:" << std::endl;
+	std::cin >> EntradaDeTextoArregloCaracteres;
+
+	while (1) {
+		std::cin >> EntradaDeTextoArregloCaracteres;
+		if (!std::cin.fail()) break;
+		std::cin.clear();
+		std::cin.ignore(std::numeric_limits<std::streamsize>::max(),
+			'\n');
+	}
 	std::cout << "suma: " << 1 + 1<<std::endl;
 	
 	std::cout << "resta: " << 1 - 1 << std::endl;
