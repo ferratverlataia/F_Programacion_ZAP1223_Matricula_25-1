@@ -1,6 +1,6 @@
 // P004 Entrada y Salida de datos.
 // Creado por Ivan ferrat
-// este Programa es un consultorio medico
+// este Programa es un consultorio medico de las farmacias simi
 #include <iostream>
 #include <locale>
 #include <string>
@@ -8,6 +8,7 @@
 int main()
 {
 	setlocale(LC_ALL, "en-US");
+	
 	std::cout << "Benvenido a el consultorio de farmacias simi " << std::endl;
 	std::cout << "¿cual es tu nombre?" << std::endl;
 	std::string nombreUsuario;
@@ -21,8 +22,11 @@ int main()
 
 	if (compropeluchesimi) 
 	{
-		std::cout << "perfecto ya lo pusimos a tu cuenta" << std::endl;
-		std::cout << "Desea agregar una bolsa ?" << std::endl;
+		std::cout << "perfecto " << std::endl;
+		std::cout << "cuantos peluches desea llevarse" << std::endl;
+		int NumerodePeluches;
+		std::cin >> NumerodePeluches;
+		std::cout << "Desea agregar una bolsa para sus peluches ?" << std::endl;
 		std::cout << "(1 si 0 no)" << std::endl;
 		bool QuieroUnaBolsa;
 		std::cin >> QuieroUnaBolsa;
@@ -50,6 +54,7 @@ int main()
 
 	std::cout << "¿Desea facturar?(1 si 0 no)"<<std::endl;
 	bool quierofacturar;
+	std::cin >> quierofacturar;
 	if (quierofacturar)
 	{
 		std::cout << "claro, no mas fijese que no hay sistema hoy joven para facturar" << std::endl;
@@ -58,5 +63,19 @@ int main()
 	{
 		std::cout << "Perfecto de todos modos no contabamos con sistema"<<std::endl;
 	}
+	std::cout << "quiere imprimir su ticket (1 si 0 no)?" << std::endl;
+	bool imprimirticket;
+	std::cin >> imprimirticket;
+	if (imprimirticket)
+	{
+		std::cout << "imprimiendo su ticket muchas gracias" << std::endl;
+	}
+	
+	
+	std::cout << "por ultimo podria escribir un comentario en el cual nos de su opinion del servicio?" << std::endl;
+	std::string ComentarioUsuario;
+	std::cin.ignore();
+	std::getline(std::cin, ComentarioUsuario);
+	std::cout << "gracias por utilizar el consultorio medico portal del doctor simi" << std::endl;
 	return 0;
 }
