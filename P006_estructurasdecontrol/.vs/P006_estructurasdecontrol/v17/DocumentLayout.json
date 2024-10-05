@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Amerike\\F_Programacion_ZAP1223_Matricula_25-1\\P006_estructurasdecontrol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF960C2A-2B9F-4B97-8304-E44C3D82A592}|P006_estructurasdecontrol\\P006_estructurasdecontrol.vcxproj|C:\\Amerike\\F_Programacion_ZAP1223_Matricula_25-1\\P006_estructurasdecontrol\\P006_estructurasdecontrol\\P006.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AF960C2A-2B9F-4B97-8304-E44C3D82A592}|P006_estructurasdecontrol\\P006_estructurasdecontrol.vcxproj|solutionrelative:P006_estructurasdecontrol\\P006.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P006.cpp",
+              "DocumentMoniker": "C:\\Amerike\\F_Programacion_ZAP1223_Matricula_25-1\\P006_estructurasdecontrol\\P006_estructurasdecontrol\\P006.cpp",
+              "RelativeDocumentMoniker": "P006_estructurasdecontrol\\P006.cpp",
+              "ToolTip": "C:\\Amerike\\F_Programacion_ZAP1223_Matricula_25-1\\P006_estructurasdecontrol\\P006_estructurasdecontrol\\P006.cpp",
+              "RelativeToolTip": "P006_estructurasdecontrol\\P006.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-05T02:47:06.457Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
