@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Amerike\\F_Programacion_ZAP1223_Matricula_25-1\\P005_Bibliotecas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77787E4F-D080-4618-8F29-D6BFD4B058D1}|P005_Bibliotecas\\P005_Bibliotecas.vcxproj|C:\\Amerike\\F_Programacion_ZAP1223_Matricula_25-1\\P005_Bibliotecas\\P005_Bibliotecas\\P005.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{77787E4F-D080-4618-8F29-D6BFD4B058D1}|P005_Bibliotecas\\P005_Bibliotecas.vcxproj|solutionrelative:P005_Bibliotecas\\P005.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P005.cpp",
+              "DocumentMoniker": "C:\\Amerike\\F_Programacion_ZAP1223_Matricula_25-1\\P005_Bibliotecas\\P005_Bibliotecas\\P005.cpp",
+              "RelativeDocumentMoniker": "P005_Bibliotecas\\P005.cpp",
+              "ToolTip": "C:\\Amerike\\F_Programacion_ZAP1223_Matricula_25-1\\P005_Bibliotecas\\P005_Bibliotecas\\P005.cpp",
+              "RelativeToolTip": "P005_Bibliotecas\\P005.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-05T03:51:26.21Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
