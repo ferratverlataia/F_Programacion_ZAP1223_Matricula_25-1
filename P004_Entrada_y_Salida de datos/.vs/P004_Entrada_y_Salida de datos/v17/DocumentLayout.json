@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Amerike\\F_Programacion_ZAP1223_Matricula_25-1\\P004_Entrada_y_Salida de datos\\",
+  "WorkspaceRootPath": "C:\\Users\\ALUMNO\\Desktop\\NOMEBORRES\\Fundamentos_Progra_ZAP1223\\P004_Entrada_y_Salida de datos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{60CC7485-C165-42A8-8B03-EB9F01FA58E2}|P004_Entrada_y_Salida de datos.vcxproj|C:\\Amerike\\F_Programacion_ZAP1223_Matricula_25-1\\P004_Entrada_y_Salida de datos\\P004EntradaySalidadedatos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{60CC7485-C165-42A8-8B03-EB9F01FA58E2}|P004_Entrada_y_Salida de datos.vcxproj|C:\\Users\\ALUMNO\\Desktop\\NOMEBORRES\\Fundamentos_Progra_ZAP1223\\P004_Entrada_y_Salida de datos\\P004EntradaySalidadedatos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{60CC7485-C165-42A8-8B03-EB9F01FA58E2}|P004_Entrada_y_Salida de datos.vcxproj|solutionrelative:P004EntradaySalidadedatos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "P004EntradaySalidadedatos.cpp",
-              "DocumentMoniker": "C:\\Amerike\\F_Programacion_ZAP1223_Matricula_25-1\\P004_Entrada_y_Salida de datos\\P004EntradaySalidadedatos.cpp",
+              "DocumentMoniker": "C:\\Users\\ALUMNO\\Desktop\\NOMEBORRES\\Fundamentos_Progra_ZAP1223\\P004_Entrada_y_Salida de datos\\P004EntradaySalidadedatos.cpp",
               "RelativeDocumentMoniker": "P004EntradaySalidadedatos.cpp",
-              "ToolTip": "C:\\Amerike\\F_Programacion_ZAP1223_Matricula_25-1\\P004_Entrada_y_Salida de datos\\P004EntradaySalidadedatos.cpp",
+              "ToolTip": "C:\\Users\\ALUMNO\\Desktop\\NOMEBORRES\\Fundamentos_Progra_ZAP1223\\P004_Entrada_y_Salida de datos\\P004EntradaySalidadedatos.cpp",
               "RelativeToolTip": "P004EntradaySalidadedatos.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAABAAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-04T20:03:25.012Z",
               "EditorCaption": ""
