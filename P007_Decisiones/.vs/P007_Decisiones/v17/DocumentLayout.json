@@ -1,10 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ALUMNO\\Desktop\\NOMEBORRES\\Fundamentos_Progra_ZAP1223\\P007_Decisiones\\",
+  "WorkspaceRootPath": "C:\\Amerike\\F_Programacion_ZAP1223_Matricula_25-1\\P007_Decisiones\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{64F343C3-0472-4780-8A5A-A7B3A9EE9697}|P007_Decisiones\\P007_Decisiones.vcxproj|C:\\Users\\ALUMNO\\Desktop\\NOMEBORRES\\Fundamentos_Progra_ZAP1223\\P007_Decisiones\\P007_Decisiones\\P007_Decisiones.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{64F343C3-0472-4780-8A5A-A7B3A9EE9697}|P007_Decisiones\\P007_Decisiones.vcxproj|C:\\Amerike\\F_Programacion_ZAP1223_Matricula_25-1\\P007_Decisiones\\P007_Decisiones\\P007_Decisiones.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{64F343C3-0472-4780-8A5A-A7B3A9EE9697}|P007_Decisiones\\P007_Decisiones.vcxproj|solutionrelative:P007_Decisiones\\P007_Decisiones.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F343C3-0472-4780-8A5A-A7B3A9EE9697}|P007_Decisiones\\P007_Decisiones.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.38.33130\\INCLUDE\\CMATH||{3B902123-F8A7-4915-9F01-361F908088D0}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +17,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cmath",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\cmath",
+              "RelativeDocumentMoniker": "..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\cmath",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\cmath",
+              "RelativeToolTip": "..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\cmath",
+              "ViewState": "AgIAAEUAAAAAAAAAAIBZwHsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-10T21:03:28.706Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "P007_Decisiones.cpp",
-              "DocumentMoniker": "C:\\Users\\ALUMNO\\Desktop\\NOMEBORRES\\Fundamentos_Progra_ZAP1223\\P007_Decisiones\\P007_Decisiones\\P007_Decisiones.cpp",
+              "DocumentMoniker": "C:\\Amerike\\F_Programacion_ZAP1223_Matricula_25-1\\P007_Decisiones\\P007_Decisiones\\P007_Decisiones.cpp",
               "RelativeDocumentMoniker": "P007_Decisiones\\P007_Decisiones.cpp",
-              "ToolTip": "C:\\Users\\ALUMNO\\Desktop\\NOMEBORRES\\Fundamentos_Progra_ZAP1223\\P007_Decisiones\\P007_Decisiones\\P007_Decisiones.cpp",
+              "ToolTip": "C:\\Amerike\\F_Programacion_ZAP1223_Matricula_25-1\\P007_Decisiones\\P007_Decisiones\\P007_Decisiones.cpp",
               "RelativeToolTip": "P007_Decisiones\\P007_Decisiones.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAXAAAA",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-05T04:07:22.549Z",
+              "WhenOpened": "2024-10-10T21:02:03.434Z",
               "EditorCaption": ""
             }
           ]

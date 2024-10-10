@@ -1,4 +1,5 @@
 #include <iostream>
+#include <cmath>
 int main() 
 {
 	std::cout << "bienvenido al simulador de batallas" << std::endl;
@@ -24,7 +25,7 @@ int main()
 		std::cout << numerodepeleadores - 1  << std::endl;
 		break;
 	case 3:
-		 grupos = numerodepeleadores / 4;
+		 grupos =ceil(numerodepeleadores / 4.f);
 		 peleas = (grupos * 6) + (grupos * 2 - 1);
 		std::cout << peleas << std::endl;
 		break;
