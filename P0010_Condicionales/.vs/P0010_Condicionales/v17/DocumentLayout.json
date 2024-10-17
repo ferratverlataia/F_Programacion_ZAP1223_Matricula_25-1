@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Amerike\\F_Programacion_ZAP1223_Matricula_25-1\\P0010_Condicionales\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8651E0D4-9BAF-4E44-A581-9C64B888EE44}|P0010_Condicionales\\P0010_Condicionales.vcxproj|C:\\Amerike\\F_Programacion_ZAP1223_Matricula_25-1\\P0010_Condicionales\\P0010_Condicionales\\P0010_Condicionales.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8651E0D4-9BAF-4E44-A581-9C64B888EE44}|P0010_Condicionales\\P0010_Condicionales.vcxproj|solutionrelative:P0010_Condicionales\\P0010_Condicionales.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P0010_Condicionales.cpp",
+              "DocumentMoniker": "C:\\Amerike\\F_Programacion_ZAP1223_Matricula_25-1\\P0010_Condicionales\\P0010_Condicionales\\P0010_Condicionales.cpp",
+              "RelativeDocumentMoniker": "P0010_Condicionales\\P0010_Condicionales.cpp",
+              "ToolTip": "C:\\Amerike\\F_Programacion_ZAP1223_Matricula_25-1\\P0010_Condicionales\\P0010_Condicionales\\P0010_Condicionales.cpp",
+              "RelativeToolTip": "P0010_Condicionales\\P0010_Condicionales.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-16T22:43:57.533Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
