@@ -1,2 +1,3 @@
-﻿  P0010_Condicionales.cpp
-  P0010_Condicionales.vcxproj -> C:\Amerike\F_Programacion_ZAP1223_Matricula_25-1\P0010_Condicionales\x64\Debug\P0010_Condicionales.exe
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (P0010_Condicionales.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  P010_Condicionales.cpp
+  P0010_Condicionales.vcxproj -> D:\Amerike\F_Programacion_ZAP1223_Matricula_25-1\P010_Condicionales\x64\Debug\P010_Condicionales.exe

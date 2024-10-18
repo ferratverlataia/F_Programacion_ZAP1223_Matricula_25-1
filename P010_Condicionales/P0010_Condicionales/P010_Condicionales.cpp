@@ -88,6 +88,7 @@ int main()
 			{
 				std::cout << "porfavor, crea una cuenta" << std::endl;
 			}
+			break;
 		case 2:
 			std::cout << "Cual es su username?" << std::endl;
 			GetInput(StoredUserName);
