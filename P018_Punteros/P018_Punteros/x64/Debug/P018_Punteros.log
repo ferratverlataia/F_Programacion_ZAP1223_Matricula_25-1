@@ -1,0 +1,4 @@
+﻿  P018_Punteros.cpp
+D:\Amerike\F_Programacion_ZAP1223_Matricula_25-1\P018_Punteros\P018_Punteros\P018_Punteros.cpp(30,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Amerike\F_Programacion_ZAP1223_Matricula_25-1\P018_Punteros\P018_Punteros\P018_Punteros.cpp(80,8): warning C4101: 'temporal': unreferenced local variable
+  P018_Punteros.vcxproj -> D:\Amerike\F_Programacion_ZAP1223_Matricula_25-1\P018_Punteros\x64\Debug\P018_Punteros.exe
