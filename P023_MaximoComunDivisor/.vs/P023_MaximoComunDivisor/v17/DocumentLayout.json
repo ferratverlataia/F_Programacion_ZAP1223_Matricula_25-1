@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Amerike\\F_Programacion_ZAP1223_Matricula_25-1\\P023_MaximoComunDivisor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3490D752-4B14-42C7-9B40-033FF6DF0EB7}|P023_MaximoComunDivisor\\P023_MaximoComunDivisor.vcxproj|D:\\Amerike\\F_Programacion_ZAP1223_Matricula_25-1\\P023_MaximoComunDivisor\\P023_MaximoComunDivisor\\P023_MaximoComunDivisor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3490D752-4B14-42C7-9B40-033FF6DF0EB7}|P023_MaximoComunDivisor\\P023_MaximoComunDivisor.vcxproj|solutionrelative:P023_MaximoComunDivisor\\P023_MaximoComunDivisor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P023_MaximoComunDivisor.cpp",
+              "DocumentMoniker": "D:\\Amerike\\F_Programacion_ZAP1223_Matricula_25-1\\P023_MaximoComunDivisor\\P023_MaximoComunDivisor\\P023_MaximoComunDivisor.cpp",
+              "RelativeDocumentMoniker": "P023_MaximoComunDivisor\\P023_MaximoComunDivisor.cpp",
+              "ToolTip": "D:\\Amerike\\F_Programacion_ZAP1223_Matricula_25-1\\P023_MaximoComunDivisor\\P023_MaximoComunDivisor\\P023_MaximoComunDivisor.cpp",
+              "RelativeToolTip": "P023_MaximoComunDivisor\\P023_MaximoComunDivisor.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-16T17:07:38.77Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
