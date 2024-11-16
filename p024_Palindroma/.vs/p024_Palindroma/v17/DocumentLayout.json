@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Amerike\\F_Programacion_ZAP1223_Matricula_25-1\\p024_Palindroma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF702CD6-A3EE-4BA2-B8B5-BC1D6D75718B}|p024_Palindroma\\p024_Palindroma.vcxproj|D:\\Amerike\\F_Programacion_ZAP1223_Matricula_25-1\\p024_Palindroma\\p024_Palindroma\\p024_Palindroma.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DF702CD6-A3EE-4BA2-B8B5-BC1D6D75718B}|p024_Palindroma\\p024_Palindroma.vcxproj|solutionrelative:p024_Palindroma\\p024_Palindroma.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "p024_Palindroma.cpp",
+              "DocumentMoniker": "D:\\Amerike\\F_Programacion_ZAP1223_Matricula_25-1\\p024_Palindroma\\p024_Palindroma\\p024_Palindroma.cpp",
+              "RelativeDocumentMoniker": "p024_Palindroma\\p024_Palindroma.cpp",
+              "ToolTip": "D:\\Amerike\\F_Programacion_ZAP1223_Matricula_25-1\\p024_Palindroma\\p024_Palindroma\\p024_Palindroma.cpp",
+              "RelativeToolTip": "p024_Palindroma\\p024_Palindroma.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-16T17:27:18.765Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
