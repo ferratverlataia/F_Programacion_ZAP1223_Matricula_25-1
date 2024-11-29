@@ -1,0 +1,4 @@
+﻿  P021_Battle_Royale.cpp
+C:\Amerike\F_Programacion_ZAP1223_Matricula_25-1\P021_Battle_Royale\P021_Battle_Royale\P021_Battle_Royale.cpp(141,30): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Amerike\F_Programacion_ZAP1223_Matricula_25-1\P021_Battle_Royale\P021_Battle_Royale\P021_Battle_Royale.cpp(196,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  P021_Battle_Royale.vcxproj -> C:\Amerike\F_Programacion_ZAP1223_Matricula_25-1\P021_Battle_Royale\x64\Debug\P021_Battle_Royale.exe

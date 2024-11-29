@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Amerike\\F_Programacion_ZAP1223_Matricula_25-1\\P021_Battle_Royale\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24CC2D6D-B7A1-4CD9-8ECD-6C5D095BE4D6}|P021_Battle_Royale\\P021_Battle_Royale.vcxproj|C:\\Amerike\\F_Programacion_ZAP1223_Matricula_25-1\\P021_Battle_Royale\\P021_Battle_Royale\\P021_Battle_Royale.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{24CC2D6D-B7A1-4CD9-8ECD-6C5D095BE4D6}|P021_Battle_Royale\\P021_Battle_Royale.vcxproj|solutionrelative:P021_Battle_Royale\\P021_Battle_Royale.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24CC2D6D-B7A1-4CD9-8ECD-6C5D095BE4D6}|P021_Battle_Royale\\P021_Battle_Royale.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.38.33130\\INCLUDE\\XUTILITY||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "xutility",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\xutility",
+              "RelativeDocumentMoniker": "..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\xutility",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\xutility",
+              "RelativeToolTip": "..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\xutility",
+              "ViewState": "AgIAAKkWAAAAAAAAAAAqwL4WAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-29T04:07:38.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P021_Battle_Royale.cpp",
+              "DocumentMoniker": "C:\\Amerike\\F_Programacion_ZAP1223_Matricula_25-1\\P021_Battle_Royale\\P021_Battle_Royale\\P021_Battle_Royale.cpp",
+              "RelativeDocumentMoniker": "P021_Battle_Royale\\P021_Battle_Royale.cpp",
+              "ToolTip": "C:\\Amerike\\F_Programacion_ZAP1223_Matricula_25-1\\P021_Battle_Royale\\P021_Battle_Royale\\P021_Battle_Royale.cpp",
+              "RelativeToolTip": "P021_Battle_Royale\\P021_Battle_Royale.cpp",
+              "ViewState": "AgIAALQAAAAAAAAAAAAAAL8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-29T00:26:27.559Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
